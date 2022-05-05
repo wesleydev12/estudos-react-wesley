@@ -1,2 +1,2 @@
-# estudos-react-wesley
-Estudando um pouco sobre ReacJs e fazendo alguns projetos em quanto isso
+# Study ReactJs
+Estudando um pouco sobre ReacJs | Fazendo alguns projetos | 
